@@ -1,9 +1,19 @@
-# Budget Clair — Publicité carnet
+# Budget Clair — Vidéos à télécharger
 
-Vidéo finale de 30 secondes.
+## Les chemins — nouvelle publicité de 35 secondes
 
-- budget-clair-carnet.mp4 : 1080 × 1920, H.264/yuv420p et AAC, version complète.
-- budget-clair-mobile.mp4 : 720 × 1280, H.264 Baseline et AAC, copie légère de lecture.
+- budget-clair-les-chemins.mp4 : 1080 × 1920, H.264/yuv420p, AAC et faststart, voix française et sous-titres.
+- budget-clair-les-chemins-mobile.mp4 : 720 × 1280, copie légère H.264 Baseline/AAC.
+- budget-clair-les-chemins-livraison.zip : les deux MP4, couverture, voix séparée, texte et contrôles.
+- budget-clair-les-chemins-sources.zip : projet modifiable et médias, sans dépendances installées.
+- budget-clair-les-chemins-couverture.png : couverture verticale.
+- budget-clair-les-chemins-voix-off.mp3 : narration seule ; texte joint en .txt.
 
-Les deux fichiers contiennent une vidéo réelle, avec narration française et sous-titres intégrés.
-Télécharger le MP4 depuis sa page de fichier puis ouvrir la copie enregistrée dans un lecteur vidéo.
+Vidéo réellement exportée et vérifiée : 35 secondes, 1 050 images, piste AAC présente, dernière phrase conservée. Lecture native vérifiée dans Chromium. Le message « ÉCRIS BUDGET EN COMMENTAIRE » reste fixe de 29 à 35 secondes. La voix est une synthèse locale Kokoro, pas la voix réelle de Romain. Aucun service payant utilisé.
+
+Si l’aperçu de l’application ne fonctionne pas, télécharger le ZIP puis extraire et ouvrir le MP4 sur l’ordinateur. Chaque ZIP inclut ses empreintes SHA256.
+
+## Publicité carnet — version précédente conservée
+
+- budget-clair-carnet.mp4 : 30 secondes, 1080 × 1920, H.264/yuv420p et AAC.
+- budget-clair-mobile.mp4 : copie légère de cette version, 720 × 1280.
